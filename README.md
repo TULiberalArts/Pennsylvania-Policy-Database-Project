@@ -1,4 +1,4 @@
-# Psychology
+# Center on Regional Politics
 
 [![Build Status][travis-img]][travis]
 
