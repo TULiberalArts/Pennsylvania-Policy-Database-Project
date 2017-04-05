@@ -2,7 +2,7 @@
 
 [![Build Status][travis-img]][travis]
 
-Psychology is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Center on Regional Politics is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 ## Content Structure
 
@@ -21,10 +21,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Psychology
-[travis-img]: https://travis-ci.org/TULiberalArts/Psychology.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Center-on-Regional-Politics
+[travis-img]: https://travis-ci.org/TULiberalArts/Center-on-Regional-Politics.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Psychology/issues
+[issue]: https://github.com/TULiberalArts/Center-on-Regional-Politics/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Psychology
+[prose]: https://prose.io/#TULiberalArts/Center-on-Regional-Politics
 [md]: http://whatismarkdown.com/

@@ -1,8 +1,8 @@
 ---
 # Program/Department Title
-title: Psychology
+title: Center on Regional Politics
 # Subdirectory (with / at only at beginning)
-baseurl: /psychology
+baseurl: /center-on-regional-politics
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -14,12 +14,12 @@ keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: Weiss Hall
-  room: 6th Floor
-  street: 1701 N 13th St
+  building: Anderson Hall
+  room: 8th Floor
+  street: 1114 West Berks St
   city: Philadelphia, PA 19122
-  email: liberal-arts-psychology@temple.edu
-  phone: 2152047321
+  email:
+  phone:
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -62,9 +62,9 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/psychology/csv
-news-feed: https://liberalarts.temple.edu/news/psychology/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/psychology/csv
+events-feed: https://liberalarts.temple.edu/events/center-on-regional-politics/csv
+news-feed: https://liberalarts.temple.edu/news/center-on-regional-politics/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/center-on-regional-politics/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.

@@ -1,4 +1,4 @@
 s3_id: <%= ENV['AWS_ACCESS_KEY'] %>
 s3_secret: <%= ENV['AWS_SECRET_KEY'] %>
-s3_bucket: tucla-psychology
-s3_key_prefix: psychology
+s3_bucket: tucla-center-on-regional-politics
+s3_key_prefix: center-on-regional-politics
