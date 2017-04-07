@@ -1,8 +1,8 @@
 ---
 # Program/Department Title
-title: Center on Regional Politics
+title: Center for the Humanities
 # Subdirectory (with / at only at beginning)
-baseurl: /center-on-regional-politics
+baseurl: /center-for-the-humanities
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -14,8 +14,8 @@ keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: Anderson Hall
-  room: 8th Floor
+  building: Gladfelter Hall
+  room: 10th Floor
   street: 1114 West Berks St
   city: Philadelphia, PA 19122
   email:
@@ -62,9 +62,9 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/center-on-regional-politics/csv
-news-feed: https://liberalarts.temple.edu/news/center-on-regional-politics/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/center-on-regional-politics/csv
+events-feed: https://liberalarts.temple.edu/events/center-for-the-humanities/csv
+news-feed: https://liberalarts.temple.edu/news/center-for-the-humanities/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/center-for-the-humanities/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
