@@ -1,8 +1,8 @@
 ---
 # Program/Department Title
-title: Center for the Humanities
+title: Pennsylvania Policy Database Project
 # Subdirectory (with / at only at beginning)
-baseurl: /center-for-the-humanities
+baseurl: /pennsylvania-policy-database-project
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -14,12 +14,12 @@ keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: Gladfelter Hall
-  room: 10th Floor
-  street: 1114 West Berks St
+  building: Anderson Hall
+  room: 840
+  street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email:
-  phone:
+  email: papolicy@temple.edu
+  phone: 215-204-7765
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -62,9 +62,9 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/center-for-the-humanities/csv
-news-feed: https://liberalarts.temple.edu/news/center-for-the-humanities/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/center-for-the-humanities/csv
+events-feed: https://liberalarts.temple.edu/events/pennsylvania-policy-database-project/csv
+news-feed: https://liberalarts.temple.edu/news/pennsylvania-policy-database-project/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/pennsylvania-policy-database-project/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
