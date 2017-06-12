@@ -3,6 +3,9 @@
 title: Pennsylvania Policy Database Project
 # Subdirectory (with / at only at beginning)
 baseurl: /pennsylvania-policy-database-project
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+
 
 # Program Information
 # Short tagline for tweets (<100 characters)
