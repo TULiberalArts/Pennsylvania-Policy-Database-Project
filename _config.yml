@@ -5,6 +5,8 @@ title: Pennsylvania Policy Database Project
 baseurl: /pennsylvania-policy-database-project
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/pennsylvania-policy-database-project
 
 
 # Program Information
