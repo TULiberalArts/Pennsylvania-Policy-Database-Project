@@ -1,6 +1,12 @@
-- text: Research
-  url: /research/
-- text: Resources
-  url : /resources/
+- text: About
+  url: /about/
+- text: Available Data
+  url: /available-data/  
+- text: Documents
+  url: /documents/
+- text: Researchers
+  url: /researchers/
+- text: User Guide 
+  url : /user-guide/
 - text: Faculty
   url: /faculty/
