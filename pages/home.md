@@ -24,28 +24,3 @@ Faculty-supervised students built the project at Temple University and five othe
 The Pennsylvania project follows the methodological approach of the national [Policy Agendas database](www.policyagendas.org), which allows users to track and analyze federal policy since 1946. Created by political scientists Frank R. Baumgartner and Bryan D. Jones and funded initially by the National Science Foundation, the University of Texas houses the national project. Similar databases are under construction in a dozen foreign countries as a part of the Comparative Agendas Project. Learn More.
 
 ___
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="National Policy Agendas Project"
-    content="The Policy Agendas Project collects and organizes data from various archived sources to trace changes in the national policy agenda and public policy outcomes since the Second World War."
-    image=""
-    button-link="http://www.policyagendas.org/"
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="Comparative Agendas Project
-      content="The Comparative Agendas Project (CAP) brings together scholars developing systematic indicators of issue attention within their nations’ political systems."
-      image=""
-      button-link=""
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="Build Your Own Policy Analysis Query today!"
-        image=""
-        button-link="http://policydb.temple.edu/PAPolicy/analysis.spg"
-        button-text="Learn More" %}
-      </div>
-</div>
