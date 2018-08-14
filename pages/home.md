@@ -38,7 +38,7 @@ ___
       title="Comparative Agendas Project
       content="The Comparative Agendas Project (CAP) brings together scholars developing systematic indicators of issue attention within their nations’ political systems."
       image=""
-      button-link="https://www.comparativeagendas.net/"
+      button-link=""
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
