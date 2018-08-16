@@ -462,7 +462,7 @@ If you would like to download our datasets to perform your own analysis, please 
 - _Just above the graph that will appear on the next page there will be a link saying “All topic _DatasetSelected_”, click it. 
 - _An .xlsx file will begin to download, which will open in MS Excel._
 
-For more information on the datasets and how to use the Data Analysis Tool see the [Documents page](https://develop.cla.temple.edu/documents).
+For more information on the datasets and how to use the Data Analysis Tool see the Documents page.
 
 **Additional data not incorporated into the Analysis Tool**
 - Speaker’s Journal (Volumes 1-9) **(Needs to be migrated into google for new url)**
