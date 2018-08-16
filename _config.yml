@@ -39,8 +39,8 @@ college:
   url: https://liberalarts.temple.edu/
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-news-feed: https://liberalarts.temple.edu/articles/pennsylvania-policy-database-project/csv
-articles-feed: https://liberalarts.temple.edu/articles/pennsylvania-policy-database-project/csv
+news-feed: 
+articles-feed: 
 
 # Social Media
 # Put in only the username unless otherwise noted
