@@ -11,16 +11,12 @@ branches:
 install:
 - bundle install
 script:
-- 'wget -O ./_data/news.csv $(bundle exec yaml get news-feed -F=_config.yml) || :'
-- 'wget -O ./_data/events.csv $(bundle exec yaml get events-feed -F=_config.yml) || :'
-- 'wget -O ./_data/profiles.csv $(bundle exec yaml get faculty-feed -F=_config.yml) || :'
-- 'wget -O ./_data/media-mentions.csv $(bundle exec yaml get media-mentions-feed -F=_config.yml) || :'
 - bundle exec jekyll build
-- bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only
-  --only-4xx --http-status-ignore 429
+- bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href
+  --external_only --only-4xx --http-status-ignore 429
 after_success: s3_website push
 notifications:
   slack:
     rooms:
-      secure: L6iL/3VJ9R/uM11xz4lyS6/LTVOcyF+ZRruJN3Q8ky/uoumXSbyvWqk4dKph7fsL4wLtpFbEaIY5Qdmje53h3mI6zlOMU49IaMj80h1G9yDKKgd3iA2z1Jm9XX4nDqKnsTqpW6RLhKqqWz6VakoxM9O7GYl0LnsNya7upJy0hQWqDkvw7hwLpHiXuBveuxRuaZpdJWhxIfyKPdykhDFgXOhR7Ig26FrlDTqaq/x7PMbW6tZu/wTmYSia9l6+Bx7PwhAWVmKmO8Sz7YlScvNoEcIeG32lXT7WYa+Nu8DfQUIkqm7ozUGNhF5qdaFCmEdhD3x2rQ+8zZKdv5m33S/8+x1G60Gc4HrZePovDczXwAJzLGWZnLx9EtUojf3cnl7bWODVxHbx4iHb8mQFrgTSGFp40Pst5H5XEUgiQRqcBUsQwVKmRWzSp55KywsDh0MbXcTYFhPUhtZBKbIrJ8vjAdFomPzOZWzOmKSfcg/KCqincH4tqb4/XEOUzVyakVnWZkabgka6JldfydpKyTO6lc5nPcSp6HQAQqBAY8rBfhURzeG5KdUcqk4Ibhh+tghPjaZYoSGbX72+n9uw6oBdOn7gHJfAauFWD+9Q2C7tTNJOVoof040pG7zD7ntVy6vazMveyrXuDNCaFVZlC/42PcVKTyVmq/dkAfQQsOz00SU=
+      - secure: L6iL/3VJ9R/uM11xz4lyS6/LTVOcyF+ZRruJN3Q8ky/uoumXSbyvWqk4dKph7fsL4wLtpFbEaIY5Qdmje53h3mI6zlOMU49IaMj80h1G9yDKKgd3iA2z1Jm9XX4nDqKnsTqpW6RLhKqqWz6VakoxM9O7GYl0LnsNya7upJy0hQWqDkvw7hwLpHiXuBveuxRuaZpdJWhxIfyKPdykhDFgXOhR7Ig26FrlDTqaq/x7PMbW6tZu/wTmYSia9l6+Bx7PwhAWVmKmO8Sz7YlScvNoEcIeG32lXT7WYa+Nu8DfQUIkqm7ozUGNhF5qdaFCmEdhD3x2rQ+8zZKdv5m33S/8+x1G60Gc4HrZePovDczXwAJzLGWZnLx9EtUojf3cnl7bWODVxHbx4iHb8mQFrgTSGFp40Pst5H5XEUgiQRqcBUsQwVKmRWzSp55KywsDh0MbXcTYFhPUhtZBKbIrJ8vjAdFomPzOZWzOmKSfcg/KCqincH4tqb4/XEOUzVyakVnWZkabgka6JldfydpKyTO6lc5nPcSp6HQAQqBAY8rBfhURzeG5KdUcqk4Ibhh+tghPjaZYoSGbX72+n9uw6oBdOn7gHJfAauFWD+9Q2C7tTNJOVoof040pG7zD7ntVy6vazMveyrXuDNCaFVZlC/42PcVKTyVmq/dkAfQQsOz00SU=
     on_success: always
