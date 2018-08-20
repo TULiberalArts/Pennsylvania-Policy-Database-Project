@@ -5,6 +5,8 @@ permalink: /documents/
 published: true
 # meta-data variables
 title: Documents
+# custom variables
+sidebar: false
 ---
 ## Information on How to use the Datatbase
 - Step by Step User Instruction (**Needs to be migrated into Google for new url**)

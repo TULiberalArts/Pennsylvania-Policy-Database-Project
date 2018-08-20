@@ -5,8 +5,6 @@ permalink: /about/
 published: true
 # meta-data variables
 title: About
-description: >-
-keywords: ''
 # custom variables
 sidebar: false
 ---
