@@ -1,12 +1,12 @@
 ---
 # Program/Department Title
 title: Pennsylvania Policy Database Project
+# url spits sitemap
+url: https://www.cla.temple.edu/pennsylvania-policy-database-project
 # Subdirectory (with / at only at beginning)
 baseurl: /pennsylvania-policy-database-project
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-# url spits sitemap
-url: https://www.cla.temple.edu/pennsylvania-policy-database-project
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -39,8 +39,8 @@ college:
   url: https://liberalarts.temple.edu/
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-news-feed: 
-articles-feed: 
+news-feed:
+articles-feed:
 
 # Social Media
 # Put in only the username unless otherwise noted

@@ -5,15 +5,12 @@ permalink: /datasets/
 published: true
 # meta-data variables
 title: Datasets
-description: >-
-keywords: ''
-# custom variables
 ---
 ## Available Data
 We encourage the free, attributed use of the data collected as part of the Pennsylvania Policy Database Project for publications, instructional use, for policy analysis, and for other non-commercial purposes.
 
 We prefer that our data, when used, is cited in one of the following two ways. When included in a reference section:
-- J. McLaughlin, P. Wolfgang, J.W. Leckrone, J. Gollob, J. Bossie, J. Jennings, and M. Atherton. 2010. 
+- J. McLaughlin, P. Wolfgang, J.W. Leckrone, J. Gollob, J. Bossie, J. Jennings, and M. Atherton. 2010.
 “The Pennsylvania Policy Database Project: A Model for Comparative Analysis.” _State Politics and Policy Quarterly,_ 10:320-36.
 
 When cited in a note regarding the source of the data, please include the following along with the date the data was accessed:
@@ -287,12 +284,12 @@ Policy Filters: A few filters were in used for the Executive Orders.  For a more
 
 - Commemorative- The EO was coded with a “1” if it created a holiday, named a building, designated a special day of remembrance, etc.  It received a “0” if the EO was not commemorative in nature.
 - Tax- The EO was coded with a “1” if it discussed the creation, alteration or change of individual taxes or the tax code. It received a “0” if it did not.
-- Elderly- The EO was coded with a “1” if it provided or changed benefits for older adults. It received a “0” if it did not. 
+- Elderly- The EO was coded with a “1” if it provided or changed benefits for older adults. It received a “0” if it did not.
   
 **Information on PA Gubernatorial Administrations 1979-2015**
 - **Govenor and Party:** Thornburgh (R)<br>
-- **Election Years:** 1978, 1982<br>	
-- **Period of 1st 100 Days:** January 16-April 25, 1979<br>	
+- **Election Years:** 1978, 1982<br>
+- **Period of 1st 100 Days:** January 16-April 25, 1979<br>
 - **End of Term Transition Period:** November 1, 1986 - January 20, 1987<br>
 
 - **Govenor and Party:** Casey (D)
@@ -327,7 +324,7 @@ Policy Filters: A few filters were in used for the Executive Orders.  For a more
 * Ridge left office early to become Secretary of the US Department of Homeland Security
 ** Schweiker completed Ridge’s second term. He did not seek reelection.
 
-___ 
+___
 
 ## Supreme Court Decisions
 The Pennsylvania Supreme Court dataset includes abstracts of opinions issued on cases since 1979. The Pennsylvania Supreme Court consists of seven members initially elected for ten year terms, after which they run on retention ballots. It receives around 2,500 civil and criminal appeals each year but only issues decisions on about 150 cases per year, including appellate, original, exclusive and extraordinary jurisdictions. The dataset does not include cases that were decided without a written opinion.
@@ -383,7 +380,7 @@ The following section contains a list of variables for the dataset. Each section
 - Rankings with 25 (Other/Don’t Know)- This provides the rank assigned for the major category as a result of the percentage breakdown. Categories with the same percentage are given the same tie number, but the next category comes back in order. This rank includes the 25 category of other/don’t know.
 - Rankings without 25 (Other/Don’t Know)- This provides the rank assigned for the major category as a result of the percentage breakdown. Categories with the same percentage are given the same tie number, but the next category comes back in order. This rank excludes the 25 category of other/don’t know.
 - Breakdowns (Columns 1, 2, 3…)- This provides the percentage of responses that compose the major topic category. For example, the economy (code 1) is often an aggregate of three to four smaller categories that respondents reply. The economy category is usually composed of the economy (column 1), taxes (column 2), personal finances (column 3), and unemployment (column 4).
-- Source- This provides the website address on the Keystone Poll website where the raw data can be obtained. 
+- Source- This provides the website address on the Keystone Poll website where the raw data can be obtained.
 
 Find more information on the [Franklin and Marshall College Poll website](http://www.fandm.edu/fandmpoll).
 
@@ -459,7 +456,7 @@ If you would like to download our datasets to perform your own analysis, please 
 - Scroll down past the policy topics section, not changing anything (unless you want to limit the policy areas)
 - At the bottom you can select the years you are interested in. If you want them all, do not change anything.
 - _Click ‘Search’ at the bottom right_
-- _Just above the graph that will appear on the next page there will be a link saying “All topic _DatasetSelected_”, click it. 
+- _Just above the graph that will appear on the next page there will be a link saying “All topic _DatasetSelected_”, click it.
 - _An .xlsx file will begin to download, which will open in MS Excel._
 
 For more information on the datasets and how to use the Data Analysis Tool see the Documents page.
