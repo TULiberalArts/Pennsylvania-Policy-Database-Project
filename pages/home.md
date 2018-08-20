@@ -5,15 +5,6 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description: >-
-keywords: ''
-# custom variables
-sidebar: false
-feature: true
-feature-title: NEED A TITLE
-feature-image: 
-feature-body: >- 
-  NEED A BODY
 ---
 [![Data Analysis Tool](https://github.com/TULiberalArts/Pennsylvania-Policy-Database-Project/blob/master/media/data-analysis%20(1).png)](http://policydb.temple.edu/PAPolicy/analysis.spg){:.img-right}
 ## What is the Pennsylvania Policy Database?
