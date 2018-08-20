@@ -132,5 +132,4 @@ exclude:
   - .ruby-version
   - .gitignore
   - vendor
-  - _site
   - node_modules
