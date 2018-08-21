@@ -1,2 +1,9 @@
 - text: About
   url: /about/
+- text: Datasets
+  url: /datasets/
+- text: Documents
+  url: /documents/
+- text: Researchers
+  url: /researchers/
+  
