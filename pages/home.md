@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Home
 # custom variables
+promotion-table: true
 sidebar: false
 ---
 ## What is the Pennsylvania Policy Database?
