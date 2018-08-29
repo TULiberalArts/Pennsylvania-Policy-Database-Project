@@ -10,7 +10,7 @@ promotion-table: true
 sidebar: false
 ---
 ## What is the Pennsylvania Policy Database?
-[![TempleYouth Voices.]({{site.baseurl}}/Temple Youth Voices.jpg)](http://policydb.temple.edu/PAPolicy/analysis.spg){:.img-right}
+[![Data Analysis Tool]({{site.baseurl}}/media/data-analysis.png)](http://policydb.temple.edu/PAPolicy/analysis.spg){:.img-right}
 The Pennsylvania Policy Database Project at Temple University is a free, online resource that provides access to more than 200,000  state and news media records and enables users to trace and analyze with a few mouse clicks the history of public policy in the Commonwealth since 1979.  Designed for easy use by educators, students, researchers, policy makers, news reporters, and the general public, it is the first comprehensive state policy database of its kind.
 
 The Pennsylvania Policy Database Project is a free, online resource that provides access to more than 200,000 state and news media records and enables users to trace and analyze with a few mouse clicks the history of public policy in the Commonwealth since 1979. Designed for easy use by educators, students, researchers, policymakers, journalists, and the general public, it is the first comprehensive state policy database of its kind. To access the database, please use the Data Analysis Tool.
