@@ -447,7 +447,7 @@ Adjustments – Revenue adjustments are generally one-time sources of revenue fo
 - Budget Stabilization Fund – This represents the final dollar figure in the Budget Stabilization Fund (or Rainy Day Fund) at the end of the state’s fiscal year.
 
 ### How to Access the Data
-- Download the User Guide (.pdf) **(needs to be migrated into google for new url)** (You will need Adobe Acrobat, or Acrobat Reader to access this file.)
+- [Download the User Guide (.pdf)](https://drive.google.com/file/d/1JF4HpSlMywVKu1nuuv6sBaYEU3jJKGZX/view?usp=sharing)(You will need Adobe Acrobat, or Acrobat Reader to access this file.)
 - Use the [data analysis tool](http://policydb.temple.edu/PAPolicy/analysis.spg)
 - Download our datasets
 
