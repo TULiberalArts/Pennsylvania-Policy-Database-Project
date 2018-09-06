@@ -458,10 +458,10 @@ If you would like to download our datasets to perform your own analysis, please 
 - Scroll down past the policy topics section, not changing anything (unless you want to limit the policy areas)
 - At the bottom you can select the years you are interested in. If you want them all, do not change anything.
 - _Click ‘Search’ at the bottom right_
-- _Just above the graph that will appear on the next page there will be a link saying “All topic _DatasetSelected_”, click it.
+- _Just above the graph that will appear on the next page there will be a link saying “All topic _DatasetSelected”_, click it.
 - _An .xlsx file will begin to download, which will open in MS Excel._
 
-For more information on the datasets and how to use the Data Analysis Tool see the Documents page.
+For more information on the datasets and how to use the Data Analysis Tool see the [Documents page](http://develop.cla.temple.edu/pennsylvania-policy-database-project/documents/).
 
 **Additional data not incorporated into the Analysis Tool**
-- Speaker’s Journal (Volumes 1-9) **(Needs to be migrated into google for new url)**
+- [Speaker’s Journal (Volumes 1-9)](https://drive.google.com/file/d/1ukuPbw6oW9XFXI9rQKpaf90t0Z8XH9k2/view?usp=sharing)**
