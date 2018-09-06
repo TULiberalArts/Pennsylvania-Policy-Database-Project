@@ -22,6 +22,3 @@ ___
 
 ## National Policy Agendas Project
 The [Policy Agendas Project](http://www.policyagendas.org/) collects and organizes data from various archived sources to trace changes in the national policy agenda and public policy outcomes since the Second World War.
-
-## Comparative Agendas Project
-The [Comparative Agendas Project (CAP)](http://www.comparativeagendas.info/) brings together scholars developing systematic indicators of issue attention within their nations’ political systems.
