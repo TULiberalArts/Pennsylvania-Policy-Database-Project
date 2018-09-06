@@ -464,4 +464,4 @@ If you would like to download our datasets to perform your own analysis, please 
 For more information on the datasets and how to use the Data Analysis Tool see the [Documents page](http://develop.cla.temple.edu/pennsylvania-policy-database-project/documents/).
 
 **Additional data not incorporated into the Analysis Tool**
-- [Speaker’s Journal (Volumes 1-9)](https://drive.google.com/file/d/1ukuPbw6oW9XFXI9rQKpaf90t0Z8XH9k2/view?usp=sharing)**
+- [Speaker’s Journal (Volumes 1-9)](https://drive.google.com/file/d/1ukuPbw6oW9XFXI9rQKpaf90t0Z8XH9k2/view?usp=sharing)
