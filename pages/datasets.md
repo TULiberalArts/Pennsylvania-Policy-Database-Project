@@ -9,29 +9,14 @@ title: Datasets
 sidebar: false
 ---
 ## Available Data
-We encourage the free, attributed use of the data collected as part of the Pennsylvania Policy Database Project for publications, instructional use, for policy analysis, and for other non-commercial purposes.
+We encourage the free and attributed use of the data collected as part of the Pennsylvania Policy Database Project for publications, instructional use, for policy analysis, and for other non-commercial purposes.
 
-We prefer that our data, when used, is cited in one of the following two ways. When included in a reference section:
+We kindly ask that our data, when used, is cited in one of the following two ways. When included in a reference section:
 - J. McLaughlin, P. Wolfgang, J.W. Leckrone, J. Gollob, J. Bossie, J. Jennings, and M. Atherton. 2010.
 “The Pennsylvania Policy Database Project: A Model for Comparative Analysis.” _State Politics and Policy Quarterly,_ 10:320-36.
 
 When cited in a note regarding the source of the data, please include the following along with the date the data was accessed:
 - Pennsylvania Policy Database Project, Principal Investigator Joseph P. McLaughlin, Temple University.
-
-Please see below for information regarding our data and how we collect it.
-
-### About the Datasets
-- [Hearings (both House and Senate)](#legislative-hearings)
-- [Governing Magazine](#governing-magazine)
-- [Newspaper Clips](#newspapers-articles)
-- [Bills, Resolutions and Laws](#bills-resolutions-and-laws)
-- [Legislative Agency Service Reports](#legislative-service-agency-reports)
-- [Governor’s Budget Address](#governors-budget-address)
-- [Executive Orders](#executive-orders)
-- [Supreme Court](#supreme-court-decisions)
-- [Most Important Problem](#most-important-problem-polls)
-- [Total Spending All Funds](#total-spending-all-funds)
-- [General Fund Balance](#general-fund-balance)
 
 ## Dataset Descriptions
 Below is an in depth description of each of our ten datasets. Click on the below links to skip down to a particular dataset.
