@@ -8,6 +8,9 @@ title: Home
 # custom variables
 promotion-table: true
 sidebar: false
+feature: true
+feature-title: PA Policy Database Project
+feature-image: media/papolicyhero.jpg
 ---
 ## What is the Pennsylvania Policy Database?
 [![Data Analysis Tool]({{site.baseurl}}/media/data-analysis.png)](http://policydb.temple.edu/PAPolicy/analysis.spg){:.responsive-img .img-right}
