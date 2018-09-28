@@ -6,7 +6,7 @@ published: true
 # meta-data variables
 title: Documents
 # custom variables
-sidebar: false
+
 ---
 ## Information on How to use the Datatbase
 - [Step by Step User Instruction](https://drive.google.com/file/d/1iT1mI7ZlJQlNbIYp1C28ubeU_gOGtSfo/view?usp=sharing)

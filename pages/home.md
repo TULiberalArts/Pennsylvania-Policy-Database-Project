@@ -7,7 +7,7 @@ published: true
 title: Home
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: PA Policy Database Project
 feature-image: media/resized papolicyhero.jpg
