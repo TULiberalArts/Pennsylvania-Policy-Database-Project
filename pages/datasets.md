@@ -6,7 +6,6 @@ published: true
 # meta-data variables
 title: Datasets
 # custom variables
-
 ---
 ## Available Data
 We encourage the free and attributed use of the data collected as part of the Pennsylvania Policy Database Project for publications, instructional use, for policy analysis, and for other non-commercial purposes.
