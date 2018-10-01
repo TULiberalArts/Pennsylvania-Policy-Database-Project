@@ -9,6 +9,7 @@ title: About
 
 ---
 ## How is this database different from traditional government archives?
+![Database]({{site.baseurl}}/media/resized_database.jpg){:.responsive-img .img-right} 
 The database provides researchers with superior tools for both information retrieval, a goal of most official archives, and pattern recognition, which is often difficult to uncover without spending immense amounts of time and effort studying and classifying hundreds if not thousands of records in numerous agency archives. The Pennsylvania Policy Database files all state, public opinion, government spending, and news media records in exclusive and exhaustive categories which are consistently organized over time. It allows users not only to locate essential documents but to recognize and graphically display patterns of policy development across many issue areas, many policy-making venues, and many years. Users can quickly identify turning points and shifts in public attention between policy areas and significant increases or declines in activity as reflected in legislation, governors’ speeches, court decisions, state spending, or media reporting as elected officials track it. All records or abstracts of documents also can be instantly downloaded for further detailed analysis.
 
 ## What records are included and how was it built?
