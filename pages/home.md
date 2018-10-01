@@ -22,4 +22,5 @@ The Pennsylvania project follows the methodological approach of the national [Po
 ___
 
 ## National Policy Agendas Project
+![National Policy Agendas]({{site.baseurl}}/media/resized National Policy Agendas.png){:.responsive-img .img-right}
 The [Policy Agendas Project](http://www.policyagendas.org/) collects and organizes data from various archived sources to trace changes in the national policy agenda and public policy outcomes since the Second World War.
