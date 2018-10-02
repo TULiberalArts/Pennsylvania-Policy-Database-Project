@@ -337,8 +337,8 @@ Corbett (R) | 2010 | January 20 - April 29, 2011 | November 5, 2014 – January 
 ------------|------------- | ------------
 Wolf (D) | 2014 | January 20-April 30, 2015 
 
-* Ridge left office early to become Secretary of the US Department of Homeland Security
-** Schweiker completed Ridge’s second term. He did not seek reelection.
+\* Ridge left office early to become Secretary of the US Department of Homeland Security<br>
+** Schweiker completed Ridge’s second term. He did not seek reelection.<br>
 
 ___
 
