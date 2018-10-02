@@ -308,39 +308,34 @@ Policy Filters: A few filters were in used for the Executive Orders.  For a more
 - Elderly- The EO was coded with a “1” if it provided or changed benefits for older adults. It received a “0” if it did not.
   
 **Information on PA Gubernatorial Administrations 1979-2015**
-- **Govenor and Party:** Thornburgh (R)<br>
-- **Election Years:** 1978, 1982<br>
-- **Period of 1st 100 Days:** January 16-April 25, 1979<br>
-- **End of Term Transition Period:** November 1, 1986 - January 20, 1987<br>
 
-- **Govenor and Party:** Casey (D)
-- **Election Years:** 1986, 1990
-- **Period of 1st 100 Days:** January 20 - April 29, 1987
-- **End of Term Transition Period:** November 1, 1994 - January 17, 1995
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**| **End of Term Transition Period**
+------------|------------- | ------------|----------------
+Thornburgh (R) | 1978, 1982 | January 16-April 25, 1979 | November 1, 1986 - January 20, 1987
 
-- **Govenor and Party:** Ridge (R)
-- **Election Years:** 1994, 1998
-- **Period of 1st 100 Days:** January 17 - April 26, 1995
-- **End of Term Transition Period:** N/A*
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**| **End of Term Transition Period**
+------------|------------- | ------------|----------------
+Casey (D) | 1986, 1990 |  January 20 - April 29, 1987 | November 1, 1994 - January 17, 1995
 
-- **Govenor and Party:** Schweiker (R)
-- **Election Years:** N/A**
-- **Period of 1st 100 Days:** October 5, 2001 - January 12, 2002
-- **End of Term Transition Period:** November 1, 2002 - January 21, 2003
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**| **End of Term Transition Period**
+------------|------------- | ------------|----------------
+Ridge (R) | 1994, 1998 | January 17 - April 26, 1995 |  N/A*
 
-- **Govenor and Party:** Rendell (D)
-- **Election Years:** 2002, 2006
-- **Period of 1st 100 Days:** January 21 - April 30, 2003
-- **End of Term Transition Period:** November 1, 2010 - January 19, 2011
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**| **End of Term Transition Period**
+------------|------------- | ------------|----------------
+Schweiker (R) | N/A**| October 5, 2001 - January 12, 2002 | November 1, 2002 - January 21, 2003
 
-- **Govenor and Party:** Corbett (R)
-- **Election Years:** 2010
-- **Period of 1st 100 Days:** January 20 - April 29, 2011
-- **End of Term Transition Period:** November 5, 2014 – January 19, 2015
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**| **End of Term Transition Period**
+------------|------------- | ------------|----------------
+Rendell (D) | 2002, 2006 | January 21 - April 30, 2003 | November 1, 2010 - January 19, 2011
 
-- **Govenor and Party:** Wolf (D)
-- **Election Years:** 2014
-- **Period of 1st 100 Days:** January 20-April 30, 2015
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**| **End of Term Transition Period**
+------------|------------- | ------------|----------------
+Corbett (R) | 2010 | January 20 - April 29, 2011 | November 5, 2014 – January 19, 2015
+
+**Govenor and Party** | **Election Years** | **Period of 1st 100 Days**
+------------|------------- | ------------
+Wolf (D) | 2014 | January 20-April 30, 2015 
 
 * Ridge left office early to become Secretary of the US Department of Homeland Security
 ** Schweiker completed Ridge’s second term. He did not seek reelection.
