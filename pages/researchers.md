@@ -24,7 +24,7 @@ ___
 **Paul Wolfgang** is a faculty advisor for the Pennsylvania Policy Database Project and an Instructor in the department of computer and information sciences at Temple University. He is the principal constructor of the project's website tools.
 
 ### Current Student Researchers
-Steven Doncaster of Bensalem, Pennsylvania, is a Political Science and Economics major in the College of Liberal Arts at Temple University. Steven joined the policy database project during the first semester of his junior year. After graduation, Steven hopes to work on political campaigns and work in the non-profit sector before attending law school.
+**Steven Doncaster** of Bensalem, Pennsylvania, is a Political Science and Economics major in the College of Liberal Arts at Temple University. Steven joined the policy database project during the first semester of his junior year. After graduation, Steven hopes to work on political campaigns and work in the non-profit sector before attending law school.
 
 ___
 
