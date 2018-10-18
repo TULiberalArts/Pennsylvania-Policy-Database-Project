@@ -9,12 +9,13 @@ title: Documents
 
 ---
 ## Information on How to use the Datatbase
-- [Step by Step User Instruction](https://drive.google.com/file/d/1iT1mI7ZlJQlNbIYp1C28ubeU_gOGtSfo/view?usp=sharing)
+- [Step by Step User Instruction](https://drive.google.com/file/d/1PYtq3vXrl7aIXwsRsocqMqkyeneVjBAh/view?usp=sharing)
 
 ## Information on How We Collect and Code the Data
 
 ### Manual and Forms
-- [Topic Area Codebook](https://drive.google.com/file/d/1U_p9jmvTYsEXqNhnSqfhxGh60bWCcWBP/view?usp=sharing)
+- [Policy Categories](https://drive.google.com/file/d/1UTHCCJOKo6NT_sUGHEAbbhbUvTqQUZSw/view?usp=sharing)
+- [Filter Descriptions](https://drive.google.com/file/d/1scu7e746IIpPiO37XOgd5iT3WIV4PJBS/view?usp=sharing)
 - Pennsylvania Policy Project Manual
 - [Recent Changes (included in Codebook)](https://drive.google.com/file/d/1X8gMvqvQAm8oCI7BQ-8PxwgYDTrkuq20/view?usp=sharing) (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.
 - [Online Codebook](https://liberalarts.temple.edu/sites/liberalarts/files/Pennsylvania%20Policy%20Database%20Codebook.pdf) (pdf.)
