@@ -44,6 +44,8 @@ Nancy Watson, curator, Thornburgh Archives (the Dick Thornburgh Papers), Univers
 **The University Advisory Committee (Faculty Leaders and Advisors)**
 Frank Baumgartner, The University of North Carolina at Chapel Hill and formerly of The Pennsylvania State University Beverly Cigler, Distinguished Professor Emerita of Public Policy and Administration, Public Affairs The Pennsylvania State University-Harrisburg David Y. Miller, University of Pittsburgh Donald F. Kettl, University of Maryland and formerly of the University of Pennsylvania Richard A. Stafford, Carnegie Mellon University Paul Wolfgang, Temple University Megan Mullin, Duke University J. Wesley Leckrone, Widener University and former graduate student, Temple University Justin Gollob, Mesa State University and former graduate student, Temple University David Thornburgh, former executive director, Fels Institute of Government, University of Pennsylvania Mike King, former executive director, Legislative Office for Research Liaison, Pennsylvania House of Representatives.
 
+___
+
 ## Project Sites
 During the project’s history, students at the universities listed below worked on the project under the supervision of faculty leaders at each site.
 
