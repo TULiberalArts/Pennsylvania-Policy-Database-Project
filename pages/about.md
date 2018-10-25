@@ -54,20 +54,20 @@ The Historical Collections and Labor Archives of the Pennsylvania State Universi
 
 ___
 
-![Penn State Harrisburg]({{site.baseurl}}/media/penn-state-harrisburg.png){:.img-right}
+![Penn State Harrisburg]({{site.baseurl}}/media/resized_penn-state-harrisburg.png){:.img-right}
 **[Beverly Cigler](http://harrisburg.psu.edu/faculty-and-staff/beverly-cigler-phd)** was the faculty leader for the project and is professor of Public Policy and Administration, School of Public Affairs, The Pennsylvania State University—Harrisburg.
 
 ___
 
-![PITT]({{site.baseurl}}/media/pitt.png){:.img-right}
+![PITT]({{site.baseurl}}/media/resized_pitt.png){:.img-right}
 **David Y. Miller** was the faculty leader for the project and is a professor in the Graduate School of Public and International Affairs at the University of Pittsburgh. Thornburgh Archives at the University of Pittsburgh provided the project with access to the news digests within the Dick Thornburgh Papers.
 
 ___
 
-![Carnegie Mellon]({{site.baseurl}}/media/carnegie-mellon.png){:.img-right}
+![Carnegie Mellon]({{site.baseurl}}/media/resized_carnegie-mellon.png){:.img-right}
 **[Richard A. Stafford](http://heinz.cmu.edu/faculty-and-research/faculty-profiles/faculty-details/index.aspx?faculty_id=95)** was the faculty leader for the project and is a Distinguished Service Professor of Public Policy at the H. John Heinz III College, School of Public Policy and Management, of Carnegie Mellon University.
 
 ___
 
-![PENN]({{site.baseurl}}/media/penn.png){:.img-right}
+![PENN]({{site.baseurl}}/media/resized_penn-state-main.png){:.img-right}
 **David B. Thornburgh**, executive director of the Committee of ** was the faculty leader for the project while he was executive director of the University of Pennsylvania’s Fels Institute of Government. Previously, Donald F. Kettl was the faculty leader for the Project at Fels.
