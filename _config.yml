@@ -40,7 +40,7 @@ college:
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 faculty-feed: https://liberalarts.temple.edu/profiles/pennsylvania-policy-database-project/csv
-
+faculty-page: /researchers
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
