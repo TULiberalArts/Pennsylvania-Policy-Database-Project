@@ -1,12 +1,12 @@
 ---
 # global predefined variables
-layout: tla_home
+layout: tla_home2
 permalink: /
 published: true
 # meta-data variables
 title: Home
 # custom variables
-promotion-table: true
+promotion-table: 
 feature: true
 feature-title: PA Policy Database Project
 feature-image: media/papolicy_hero_new.png
