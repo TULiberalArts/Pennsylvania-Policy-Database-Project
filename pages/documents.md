@@ -16,7 +16,5 @@ title: Documents
 ### Manual and Forms
 - [Policy Categories](https://drive.google.com/file/d/1UTHCCJOKo6NT_sUGHEAbbhbUvTqQUZSw/view?usp=sharing)
 - [Filter Descriptions](https://drive.google.com/file/d/1scu7e746IIpPiO37XOgd5iT3WIV4PJBS/view?usp=sharing)
-- Pennsylvania Policy Project Manual
-- [Recent Changes (included in Codebook)](https://drive.google.com/file/d/1X8gMvqvQAm8oCI7BQ-8PxwgYDTrkuq20/view?usp=sharing) (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.
-- [Online Codebook](https://liberalarts.temple.edu/sites/liberalarts/files/Pennsylvania%20Policy%20Database%20Codebook.pdf) (pdf.)
-- [Field Description](https://drive.google.com/file/d/1X8gMvqvQAm8oCI7BQ-8PxwgYDTrkuq20/view?usp=sharing)
+- [Recent Changes](https://drive.google.com/file/d/1X8gMvqvQAm8oCI7BQ-8PxwgYDTrkuq20/view?usp=sharing) (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.
+- [Online Codebook](https://drive.google.com/file/d/10keogoWDmp5bLa9E6ALDFz1x5tLGTs-h/view?usp=sharing) (doc.)
