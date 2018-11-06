@@ -19,6 +19,8 @@ To access the database, please use the Data Analysis Tool. Faculty-supervised st
 
 The Pennsylvania project follows the methodological approach of the national [Policy Agendas database](www.policyagendas.org), which allows users to track and analyze federal policy since 1946. Created by political scientists Frank R. Baumgartner and Bryan D. Jones and funded initially by the National Science Foundation, the University of Texas houses the national project. Similar databases are under construction in a dozen foreign countries as a part of the Comparative Agendas Project. Learn More.
 
+## Database Testimonials 
+
 > _"The Pennsylvania Public Policy Database provides a single source for information across numerous policy areas in Pennsylvania politics.  I particularly recommend the database as a data source for both my upper level undergraduate students and our graduate students in our Master of Public Administration program.  Without this database, we would need to search across numerous platforms to find news articles, legislative initiatives and budgetary trends in the Commonwealth.  The Public Policy Database is an invaluable classroom, teaching and research tool."_  - Paula A. Holoviak, PhD - Professor, Political Science and Public Administration Kutztown University 
 
 ___
@@ -26,3 +28,5 @@ ___
 ![National Policy Agendas]({{site.baseurl}}/media/resized2_national_policy_agendas.png){:.responsive-img .img-right}
 ## National Policy Agendas Project
 The [Policy Agendas Project](http://www.policyagendas.org/) collects and organizes data from various archived sources to trace changes in the national policy agenda and public policy outcomes since the Second World War.
+
+___
