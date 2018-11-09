@@ -17,7 +17,7 @@ palette: light #future feature
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: ''
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
