@@ -117,6 +117,8 @@ prose:
           options:
             - name: page
               value: page
+            - name: faculty2
+              value: faculty2
             - name: faculty
               value: faculty
             - name: home
