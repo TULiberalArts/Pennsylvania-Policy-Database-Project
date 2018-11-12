@@ -18,7 +18,7 @@ When cited in a note regarding the source of the data, please include the follow
 - Pennsylvania Policy Database Project, Principal Investigator Joseph P. McLaughlin, Temple University.
 
 ## Dataset Descriptions
-A complete dataset description of each of the ten datasets can be found here.
+A complete dataset description of each of the ten datasets can be found [here](https://drive.google.com/file/d/1UbUuMsk53bcuSW_HNNrRZUFXCqNN-DNK/view?usp=sharing) (.pdf).
 
 **Additional data not incorporated into the Analysis Tool**
 - [Speaker’s Journal (Volumes 1-9)](https://drive.google.com/file/d/1ukuPbw6oW9XFXI9rQKpaf90t0Z8XH9k2/view?usp=sharing)
