@@ -43,7 +43,7 @@ program_news: https://liberalarts.temple.edu/news/pennsylvania-policy-database-p
 program_events: https://events.temple.edu/department/pennsylvania-policy-database-project
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-faculty-feed: https://liberalarts.temple.edu/profiles/institute-for-public-affairs/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/pennsylvania-policy-database-project/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
