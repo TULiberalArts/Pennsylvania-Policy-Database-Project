@@ -5,8 +5,6 @@ permalink: /researchers/
 published: true
 # meta-data variables
 title: Researchers
-description: >-
-keywords: 'research faculty, staff, pa policy'
 # custom variables
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
