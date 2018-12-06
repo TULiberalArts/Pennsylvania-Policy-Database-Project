@@ -8,7 +8,7 @@ title: Documents
 # custom variables
 
 ---
-## Information on How to use the Datatbase
+## Information on How to use the Database
 - [Step by Step User Instruction](https://drive.google.com/file/d/1PYtq3vXrl7aIXwsRsocqMqkyeneVjBAh/view?usp=sharing)
 
 ## Information on How We Collect and Code the Data
