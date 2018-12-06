@@ -1,10 +1,15 @@
 ---
 # global predefined variables
 layout: tla_faculty
-permalink: /researchers/
+permalink: /faculty/
 published: true
 # meta-data variables
-title: Researchers
+title: Faculty
+keywords: 'renowned research faculty, neuroscience'
+description: >-
+  Our faculty members are nationally recognized in their fields and continue
+  to  research and publish while teaching both introductory and advanced
+  courses.
 # custom variables
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
