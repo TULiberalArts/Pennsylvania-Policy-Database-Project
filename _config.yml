@@ -7,7 +7,6 @@ url: https://www.cla.temple.edu/pennsylvania-policy-database-project
 baseurl: /pennsylvania-policy-database-project
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-faculty-page: /researchers/
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -38,7 +37,8 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
-  
+
+  # these are absolute paths to pages. These are used when there is no program specific content for this program.
 program_news: https://liberalarts.temple.edu/news/pennsylvania-policy-database-project
 program_events: https://events.temple.edu/department/pennsylvania-policy-database-project
 

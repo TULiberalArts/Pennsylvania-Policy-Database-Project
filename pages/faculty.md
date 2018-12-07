@@ -10,7 +10,7 @@ description: >-
   Our faculty members are nationally recognized in their fields and continue
   to  research and publish while teaching both introductory and advanced
   courses.
-# custom variables
+# custom variables these are the paths to the includes. Look first in this repo/includes/profiles/ and then look in the Theme. The Theme is assigned to these pages in the _config YAML file in the root of this project.
 faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
 ---
