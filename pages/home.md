@@ -17,7 +17,7 @@ The Pennsylvania Policy Database Project at Temple University is a free, online 
 
 To access the database, please use the Data Analysis Tool. Faculty-supervised students built the project at Temple University with the support and cooperation of the Pennsylvania General Assembly. Also participating were students and faculty members at Pennsylvania State University, Carnegie Mellon University, the University of Pittsburgh, Pennsylvania State University Harrisburg, and the University of Pennsylvania.
 
-The Pennsylvania project follows the methodological approach of the national [Policy Agendas database](www.policyagendas.org), which allows users to track and analyze federal policy since 1946. Created by political scientists Frank R. Baumgartner and Bryan D. Jones and funded initially by the National Science Foundation, the University of Texas houses the national project. Similar databases are under construction in a dozen foreign countries as a part of the Comparative Agendas Project.
+The Pennsylvania project follows the methodological approach of the national [Policy Agendas database](https://www.comparativeagendas.net/us), which allows users to track and analyze federal policy since 1946. Created by political scientists Frank R. Baumgartner and Bryan D. Jones and funded initially by the National Science Foundation, the University of Texas houses the national project. Similar databases are under construction in a dozen foreign countries as a part of the Comparative Agendas Project.
 
 ![National Policy Agendas]({{site.baseurl}}/media/resized2_national_policy_agendas.png){:.responsive-img .img-right}
 ## National Policy Agendas Project
