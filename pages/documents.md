@@ -18,3 +18,4 @@ title: Documents
 - [Filter Descriptions](https://drive.google.com/file/d/1scu7e746IIpPiO37XOgd5iT3WIV4PJBS/view?usp=sharing) (pdf.) 
 - [Recent Changes](https://drive.google.com/file/d/1X8gMvqvQAm8oCI7BQ-8PxwgYDTrkuq20/view?usp=sharing) (pdf.) 
 - [Online Codebook](https://drive.google.com/file/d/10keogoWDmp5bLa9E6ALDFz1x5tLGTs-h/view?usp=sharing) (pdf.)
+- [Code Crosswalk CAP – PPDP](https://liberalarts.temple.edu/sites/liberalarts/files/CAP-PPPDP%2BCrosswalk%2BCodes.pdf)
