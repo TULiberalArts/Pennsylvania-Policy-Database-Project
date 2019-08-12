@@ -11,7 +11,7 @@ feature: true
 feature-title: PA Policy Database Project
 feature-image:
 ---
-![Data Analysis Tool]({{site.baseurl}}/media/resized2papolicyheronew.png){:.responsive-img .img-center}
+![Data Analysis Tool]({{site.baseurl}}/media/papolicy_hero_new.png){:.responsive-img .img-center}
 
 ## What is the Pennsylvania Policy Database?
 [![Data Analysis Tool]({{site.baseurl}}/media/data-analysis.png)](http://policydb.temple.edu/PAPolicy/analysis.spg){:.responsive-img .img-right}
