@@ -50,7 +50,7 @@ ___
 During the project’s history, students at the universities listed below worked on the project under the supervision of faculty leaders at each site.
 
 ![Penn State]({{site.baseurl}}/media/penn-state-main.png){:.img-right}
-**[Frank R. Baumgartner](http://www.unc.edu/~fbaum/)** is a senior advisor to the project. He was the faculty leader at the Pennsylvania State University from 2005-09 and co-founder (with Bryan D. Jones) of the national Policy Agendas project on which the Pennsylvania project is modeled. He is currently the Richard J. Richardson Distinguished Professor of Political Science at The University of North Carolina at Chapel Hill
+**Frank R. Baumgartner** is a senior advisor to the project. He was the faculty leader at the Pennsylvania State University from 2005-09 and co-founder (with Bryan D. Jones) of the national Policy Agendas project on which the Pennsylvania project is modeled. He is currently the Richard J. Richardson Distinguished Professor of Political Science at The University of North Carolina at Chapel Hill
 
 The Historical Collections and Labor Archives of the Pennsylvania State University Library in State College, PA provided the project with acccess to Governor Robert P. Casey’s news digests.
 
