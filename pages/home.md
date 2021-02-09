@@ -21,6 +21,7 @@ To access the database, please use the Data Analysis Tool. Faculty-supervised st
 
 The Pennsylvania project follows the methodological approach of the national [Policy Agendas database](https://www.comparativeagendas.net/us), which allows users to track and analyze federal policy since 1946. Created by political scientists Frank R. Baumgartner and Bryan D. Jones and funded initially by the National Science Foundation, the University of Texas houses the national project. Similar databases are under construction in a dozen foreign countries as a part of the Comparative Agendas Project.
 
+### Database Update
 **As of 2020, the Policy Database is no longer being actively maintained. An archive of the database will be available soon.**
 
 ![National Policy Agendas]({{site.baseurl}}/media/resized2_national_policy_agendas.png){:.responsive-img .img-right}
