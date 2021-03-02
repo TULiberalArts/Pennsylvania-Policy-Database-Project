@@ -72,4 +72,4 @@ ___
 ___
 
 ![PENN]({{site.baseurl}}/media/resizedpenn.png){:.img-right}
-**David B. Thornburgh**, executive director of the Committee of ** was the faculty leader for the project while he was executive director of the University of Pennsylvania’s Fels Institute of Government. Previously, Donald F. Kettl was the faculty leader for the Project at Fels.
+**David B. Thornburgh**, executive director of the Committee of Seventy was the faculty leader for the project while he was executive director of the University of Pennsylvania’s Fels Institute of Government. Previously, Donald F. Kettl was the faculty leader for the Project at Fels.
